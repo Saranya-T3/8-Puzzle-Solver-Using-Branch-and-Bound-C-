@@ -18,3 +18,8 @@ This project implements an 8-Puzzle solver using the Branch and Bound (A*) searc
 ## Tech Stack
 - Language: C
 - Concepts: Data Structures, Algorithms, Heuristic Search
+
+## How to Run
+```bash
+gcc puzzle.c -o puzzle
+./puzzle
